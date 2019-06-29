@@ -1,4 +1,4 @@
 ##### App Locale Demo
 
-![locale_demo](/flutter-Localization.gif)
-Format: ![Alt Text](url)
+![locale_demo](./flutter-Localization.gif)
+Format: ![locale demo](./flutter-Localization.gif)
