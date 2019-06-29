@@ -1,4 +1,4 @@
 ##### App Locale Demo
 
-![GitHub Logo](/images/logo.png)
+![locale_demo](/flutter-Localization.gif)
 Format: ![Alt Text](url)
